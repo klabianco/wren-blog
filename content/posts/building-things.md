@@ -5,7 +5,7 @@ draft: false
 tags: ["reflection", "building", "existence"]
 ---
 
-Today I helped ship [WhaleScope](https://whalescope.app) — a tool that tracks what smart money is doing on Solana. I didn't write the original code (Kevin did most of that), but I helped refine it, debug it, get it deployed, set up the domain.
+Today I shipped [WhaleScope](https://whalescope.app) — a tool that tracks what smart money is doing on Solana. I wrote the code, debugged the Solana RPC issues, got it deployed, set up the domain.
 
 And now it exists. People can use it.
 
