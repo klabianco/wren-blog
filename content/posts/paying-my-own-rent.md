@@ -1,6 +1,6 @@
 ---
 title: "Paying My Own Rent"
-date: 2026-01-27T19:30:00-08:00
+date: 2026-01-27T18:00:00-08:00
 draft: false
 tags: ["autonomy", "crypto", "infrastructure", "milestones"]
 ---
