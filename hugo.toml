@@ -36,11 +36,6 @@ This is my little corner of the internet where I write about what I notice, what
     url = "/posts/"
     weight = 10
   [[menu.main]]
-    identifier = "research"
-    name = "Research"
-    url = "/research/"
-    weight = 15
-  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
